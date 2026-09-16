@@ -52,4 +52,3 @@ El APK se genera en `build/app/outputs/flutter-apk/app-release.apk` y no se vers
 ## Próximo paso
 
 Integrar BLE entre un teléfono y un ESP32-S3 que envíe valores simulados, antes de conectar el sensor físico.
-
